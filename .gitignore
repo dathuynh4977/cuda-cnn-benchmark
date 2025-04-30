@@ -1,14 +1,9 @@
-# Ignore temporary files
 *.exe
 *.lib
 *.exp
 *.obj
-
-# Ignore output data
+*.pdb
 /output/
-*.png
-
-# Ignore VS Code or system files
+__pycache__/
 .vscode/
-.DS_Store
-Thumbs.db
+*.png
