@@ -1,0 +1,14 @@
+# Ignore temporary files
+*.exe
+*.lib
+*.exp
+*.obj
+
+# Ignore output data
+/output/
+*.png
+
+# Ignore VS Code or system files
+.vscode/
+.DS_Store
+Thumbs.db
